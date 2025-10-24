@@ -64,11 +64,6 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 ![L-7 IMG 7](https://github.com/user-attachments/assets/32ef57d1-d0ac-4299-b73d-3485c7072a66)
 
 
-## The fake Google page is displayed. The victim can enter the username and password
-
-![L-7 IMG 8](https://github.com/user-attachments/assets/81fd10bd-7c93-44a9-a0db-19eacbd00fc7)
-
-
 ## SET logs the information regarding the Google credentials:
 
 ![L-7 IMG 9](https://github.com/user-attachments/assets/cfec101d-8a5c-4fa4-a06e-4490dd8e4839)
